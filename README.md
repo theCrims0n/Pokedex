@@ -1,4 +1,4 @@
-dependencias server
+dependencias server  
 -npm i axios  
 -npm i cors  
 -npm i dotenv  
